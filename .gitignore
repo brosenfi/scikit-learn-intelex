@@ -19,9 +19,6 @@ build_oneapi_backend
 src/oneapi/oneapi_api.h
 src/oneapi/oneapi.cpp
 
-# IDE properties
-.vscode
-
 # sklearnex files
 scikit_learn_intelex.egg-info
 

@@ -1,0 +1,4 @@
+[submodule "one-dal-module"]
+	path = one-dal-module
+	url = https://github.com/brosenfi/oneDAL.git
+	branch = main
